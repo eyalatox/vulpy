@@ -1,9 +1,10 @@
+ujson==1.35
 click
 cryptography
-Flask
+Flask==0.12.5
 geoip2
 jsonschema
 PyJWT
 pyotp
 qrcode
-requests
+requests==2.1.0
